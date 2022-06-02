@@ -809,3 +809,4 @@ https://github.com/wro4j/wro4j,7e3801e19fb43183c59607663ebd53c27a95cf77,wro4j-wr
 https://github.com/wro4j/wro4j,7e3801e19fb43183c59607663ebd53c27a95cf77,wro4j-wro4j,ro.isdc.wro.model.resource.locator.TestUrlUriLocator#testValidUrl
 https://github.com/zxing/zxing,59ea393a08e568d0c662707bccf56895acfb02cf,zxing-zxing,com.google.zxing.aztec.encoder.EncoderTest#testAztecWriter
 https://github.com/zxing/zxing,59ea393a08e568d0c662707bccf56895acfb02cf,zxing-zxing,com.google.zxing.pdf417.decoder.ec.ErrorCorrectionTestCase#testTooManyErrors
+
